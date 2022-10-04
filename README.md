@@ -1,7 +1,13 @@
-### Hi there 👋
+### Olá!, Eu sou o Artur da Costa
 
-<!--
-**ArturCLTI/ArturCLTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/ArturCLTI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturCLTI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCLTI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
